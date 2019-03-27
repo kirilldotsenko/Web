@@ -1,27 +1,25 @@
-class IsbnValidation{
-    constructor(digital){
-        this.digital=digital
-    }
-    sayHi(){
-        let a=this.digital+1
-        return a
+import isbn from "./isbn"
 
+export default class IsbnValidator {
+    constructor(value){
+        this.value=value;
     }
-
-}
-let user=new IsbnValidation(5)
-console.log(user.sayHi())
-function listAllProperties(user){     
+    Validate(){
+        this.value;
+        return isbn(this.value);
+    }
+};
+/*export function listAllProperties(user){     
 	var objectToInspect;     
 	var result = [];
 	
 	for(objectToInspect = user; objectToInspect !== null; objectToInspect = Object.getPrototypeOf(objectToInspect)){  
 		result = result.concat(Object.getOwnPropertyNames(objectToInspect));  
 	}
-	
+	console.log(result);
 	return result; 
 }
-function listAllProperties1(user){     
+export function listAllProperties1(user){     
 	var objectToInspect;     
 	var result1 = [];
 	
@@ -32,9 +30,4 @@ function listAllProperties1(user){
 	}
 	
 	return result1; 
-}
-let kek=listAllProperties(user)
-let kek1=listAllProperties1(user)
-console.log(kek)
-console.log(kek1)
-
+}*/
