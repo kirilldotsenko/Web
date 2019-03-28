@@ -3,6 +3,7 @@ import listAllProperties from "./ClassProp"
 import listAllProperties1 from "./ClassPropVal"
 import ChangeIndex from "./Index"
 import LevenDistance from "./Leven"
+import LevenDistance1 from "./LevenRec"
 
 describe("Check",function(){
     test("Simple test 1",function(){
@@ -48,8 +49,15 @@ describe("Check",function(){
 })
 describe("Check",function(){
     test("Simple test 8",function(){
-        const res=LevenDistance("Hillo","Hello")
-        expect(res).toBe(1);
+        const res=LevenDistance("Hikko","Hello")
+        expect(res).toBe(3);
+
+    })
+})
+describe("Check",function(){
+    test("Simple test 9",function(){
+        const res=LevenDistance1("Hikko","Hello")
+        expect(res).toBe(3);
 
     })
 })
