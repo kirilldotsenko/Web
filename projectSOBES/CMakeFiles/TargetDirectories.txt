@@ -1,0 +1,6 @@
+/home/kirill/CLionProjects/projectSOBES/CMakeFiles/rebuild_cache.dir
+/home/kirill/CLionProjects/projectSOBES/CMakeFiles/projectSOBES.dir
+/home/kirill/CLionProjects/projectSOBES/CMakeFiles/edit_cache.dir
+/home/kirill/CLionProjects/projectSOBES/serverSOBES/CMakeFiles/rebuild_cache.dir
+/home/kirill/CLionProjects/projectSOBES/serverSOBES/CMakeFiles/serverSOBES.dir
+/home/kirill/CLionProjects/projectSOBES/serverSOBES/CMakeFiles/edit_cache.dir

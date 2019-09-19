@@ -1,0 +1,6 @@
+/home/kirill/CLionProjects/projectSOBES/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/kirill/CLionProjects/projectSOBES/cmake-build-debug/CMakeFiles/projectSOBES.dir
+/home/kirill/CLionProjects/projectSOBES/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kirill/CLionProjects/projectSOBES/cmake-build-debug/serverSOBES/CMakeFiles/rebuild_cache.dir
+/home/kirill/CLionProjects/projectSOBES/cmake-build-debug/serverSOBES/CMakeFiles/serverSOBES.dir
+/home/kirill/CLionProjects/projectSOBES/cmake-build-debug/serverSOBES/CMakeFiles/edit_cache.dir

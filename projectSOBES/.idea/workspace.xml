@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="projectSOBES" targetName="serverSOBES" />
+      <config projectName="projectSOBES" targetName="projectSOBES" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bc3a8126-1647-4ff8-b6eb-cce73ef1a3a9" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1QzVB4Z02DNdw5fXISBim1kaLil" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="CMake Application.projectSOBES">
+    <configuration name="projectSOBES" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="projectSOBES" TARGET_NAME="projectSOBES" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="projectSOBES" RUN_TARGET_NAME="projectSOBES">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="serverSOBES" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="projectSOBES" TARGET_NAME="serverSOBES" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="projectSOBES" RUN_TARGET_NAME="serverSOBES">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.projectSOBES" />
+      <item itemvalue="CMake Application.serverSOBES" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc3a8126-1647-4ff8-b6eb-cce73ef1a3a9" name="Default Changelist" comment="" />
+      <created>1568773274486</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568773274486</updated>
+      <workItem from="1568773284690" duration="2025000" />
+      <workItem from="1568828277989" duration="1455000" />
+      <workItem from="1568840704003" duration="13364000" />
+      <workItem from="1568899646319" duration="17462000" />
+      <workItem from="1568921346463" duration="1511000" />
+      <workItem from="1568923159868" duration="234000" />
+      <workItem from="1568923429194" duration="484000" />
+      <workItem from="1568923973508" duration="184000" />
+      <workItem from="1568924194026" duration="2209000" />
+      <workItem from="1568926781794" duration="1335000" />
+      <workItem from="1568928784950" duration="67000" />
+      <workItem from="1568929248262" duration="122000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
